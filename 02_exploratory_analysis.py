@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import os
 
 # Load dataset
 df = pd.read_csv("../outputs/cleaned_dataset.csv")
